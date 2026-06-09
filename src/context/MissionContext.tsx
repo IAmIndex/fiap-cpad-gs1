@@ -266,7 +266,7 @@ export const MissionProvider = ({ children }: { children: ReactNode }) => {
         return nextTelemetry;
       });
 
-    }, 5000); // Tempo de atualização
+    }, 60000); // Tempo de atualização
 
     return () => clearInterval(interval);
   }, [activeMissionId, thresholds, missions]);
