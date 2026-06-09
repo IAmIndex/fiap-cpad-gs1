@@ -2,7 +2,7 @@
 
 > Sistema inteligente para monitoramento de telemetria, análise de estabilidade e predição de anomalias em missões espaciais.
 
-![Banner OrionAnalytics](https://placehold.co/1200x400/0b0f19/38bdf8?text=OrionAnalytics+|+Mission+Control+Center)
+![Banner SpaceMonitor](./assets/screenshots/banner.png)
 
 ---
 
