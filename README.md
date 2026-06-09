@@ -82,7 +82,7 @@ Siga a cadeia de passos documentada abaixo para clonar e executar o ambiente sim
 1. **Clonar o Repositório:**
    ```bash
    git clone https://github.com/IAmIndex/fiap-cpad-gs1
-   cd space-monitor
+   cd fiap-cpad-gs1
    ```
 
 2. **Instalar dependências de produção:**
