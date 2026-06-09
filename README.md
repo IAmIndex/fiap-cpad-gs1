@@ -101,7 +101,7 @@ Para rodar a partir deste ponto, é necessário utilizar um emulador de celular.
 
 # Vídeo Demonstrativo
 
-Para assistir a uma demonstração do aplicativo em seu funcionamento, acesse [este vídeo]().
+Para assistir a uma demonstração do aplicativo em seu funcionamento, acesse [este vídeo](https://drive.google.com/file/d/1arvzQu6lYLReDVKrd5dPkToT3Erc2dgn/view?usp=sharing).
 
 # Adendo
 
